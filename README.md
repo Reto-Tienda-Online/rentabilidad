@@ -4,7 +4,6 @@
 - [Introducción](#introducción)
 - [Tareas y estimación de horas](#tareas-y-estimación-de-horas)
 - [Costes](#costes)
-- [Ganancias](#ganancias)
 - [Rentabilidad](#rentabilidad)
 
 # Introducción
@@ -35,20 +34,16 @@ El equipo de desarrolladores formado por Iker, Diego, Issam, Jokin y Julio se di
 
    | GASTOS | € |
    |----------|----------|
-   | Alquiler (Oficina, comida, luz...)  | 5000 €/mes  | 
+   | Alquiler (Oficina, comida, luz...)  | 500 €/mes  | 
    | Herramientas AI (Copilot)    | 40 €/año  | 
    | [Github Premium](https://docs.github.com/en/copilot/overview-of-github-copilot/about-github-copilot-individual)  |  8 €/mes |
    | [Dominio](https://www.hostinger.es/comprar-dominio)|  6.95 €/mes |
    | [Servidor](https://www.hostinger.es/hosting-web)   |   5 €/mes |
-   | Total    |  5069.95 €   |
-
-
-
-# Ganancias
-Se estima un toal de 3 meses de desarollo. 5069.95€ * 3 meses = **15 209,85 €**
+   | Total    |  569.95 €   |
+Estimamos un total de 3 meses de desarollo. 569.95€ * 3 meses = **1.709,85 €**
 
 # Rentabilidad
 * **Fijación del precio final:**
   - El grupo de desarollo busca na ganacia del 1.75% del pryecto
-  - **2661.17**€ de margen
-  - En toal cobrariasmos ***7871.57375***€
+  - **29,90**€ de margen
+  - En toal cobrariasmos ***1.739,80***€
