@@ -3,6 +3,7 @@
 - [Game Grover](#game-grover)
 - [Introducción](#introducción)
 - [Tareas y estimación de horas](#tareas-y-estimación-de-horas)
+- [Salarios](#salarios)
 - [Costes](#costes)
 - [Rentabilidad](#rentabilidad)
 
@@ -22,13 +23,15 @@ El equipo de desarrolladores formado por Iker, Diego, Issam, Jokin y Julio se di
 2. **Cálculo del tiempo total de desarrollo:**
    - Tiempo total estimado: 700 (desarrollo del sitio web) + 400 (funciones específicas) + 200 (diseño) + 200 (pruebas) = **1500 horas**
 
-# Costes
+# Salarios
 
 *  **Salarios del equipo de desarrollo:** Dependiendo de la duración del proyecto. Estimación de 3 meses:
     -   Según la [BOE](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-6346&orden=conte#refpost) siendo trabajadores entre Nivel 1 y de Nivel 2, anualmente nos corresponde: 26.323,57 y 20.157,09 €
     -   Salario mensual total = 1.920 €/mes × 4 trabajadores
         -   Salario mensual total = **7.680 €/mes**
    - Cada integrante del desarrollo recibirá **12 €/hora**
+
+# Costes
 
 *  **Desglose:** 
 
